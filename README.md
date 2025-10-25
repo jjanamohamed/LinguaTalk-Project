@@ -1,44 +1,45 @@
-#LinguaTalk – AI-Powered English Conversation Tutor
-##“Speak Naturally. Learn Smart.”
+LinguaTalk – AI-Powered English Conversation Tutor
 
-##Overview
+"Speak Naturally. Learn Smart."
 
-LinguaTalk is an AI-powered English learning platform designed for individual learners who want to improve their speaking fluency, pronunciation, and vocabulary through natural conversations with a virtual AI tutor.
+Overview
 
-It offers adaptive vocabulary lessons, real-time pronunciation feedback, and progress tracking — making English learning personal, engaging, and effective.
+LinguaTalk is an AI-powered English learning platform designed for individual learners who want to improve their speaking fluency, pronunciation, and vocabulary through interactive conversations with a virtual AI tutor.
 
-##Purpose
+The platform provides adaptive vocabulary training, real-time pronunciation feedback, and progress tracking to create a personalized and effective learning experience.
 
-To create a personalized English learning experience where users can practice speaking confidently, receive instant feedback, and track measurable improvement over time.
+Purpose
 
-##Core Features
+To develop a user-centered English learning system that allows learners to practice naturally with an AI tutor, receive instant feedback, and monitor measurable progress over time.
 
-  User Registration & Profiles – Secure login and personalized dashboards.
+Core Features
 
-🧠 Adaptive “Word of the Day” – Adjusts vocabulary based on user proficiency.
+User Registration and Profiles – Secure login and personalized dashboards.
 
-💬 AI Conversation Practice – Real-time English chats with an intelligent tutor.
+Adaptive “Word of the Day” – Vocabulary adapts based on each learner’s proficiency level.
 
-🎙️ Pronunciation Feedback – Instant correction and improvement suggestions.
+AI Conversation Practice – Real-time conversations with a responsive AI tutor.
 
-📈 Progress Dashboard – Tracks user progress and vocabulary growth.
+Pronunciation Feedback – Automatic detection and correction of pronunciation errors.
 
-🧾 Admin Panel – Manage topics, users, and vocabulary content.
+Progress Dashboard – Tracks vocabulary growth, pronunciation accuracy, and activity time.
 
-📱 Multi-Device Access – Works smoothly across desktop and mobile devices.
+Admin Panel – Enables management of topics, vocabulary lists, and user data.
 
-🧩 System Vision
+Multi-Device Access – Accessible across web and mobile devices.
 
-LinguaTalk bridges the gap between traditional learning apps and real conversation practice.
-It focuses on helping individual learners by providing:
+System Vision
 
-Realistic, AI-driven conversation experiences.
+LinguaTalk bridges the gap between traditional learning apps and real conversational practice.
+It focuses on providing:
 
-Continuous pronunciation and vocabulary feedback.
+Realistic AI-driven dialogue experiences.
 
-Adaptive, level-based learning tailored to each user.
+Personalized, adaptive lessons based on individual progress.
 
-👩‍💻 Team Members
+Continuous feedback to support confidence and fluency.
+
+Team Members
 
 Jana Mohamed AbdelHafeez – 23-101097
 
@@ -49,12 +50,12 @@ Icel Tamer Hassan – 23-101104
 Course: Introduction to Software Engineering
 Instructor: Dr. Amal Elgammal
 
-🧠 Tools & Technologies
+Tools and Technologies
 
-StarUML – Used for workflow and activity diagram modeling.
+StarUML: Used for workflow and activity diagram modeling.
 
-Jira – Used for project management and task tracking.
+Jira: Used for project management, task tracking, and progress monitoring.
 
-GitHub – Used for collaboration and version control.
+GitHub: Used for collaboration, version control, and report sharing.
 
-(Planned integration): AI APIs (e.g., ChatGPT) for natural conversation and pronunciation feedback.
+Planned Integration: AI APIs (e.g., ChatGPT) for generating conversations and pronunciation feedback.
