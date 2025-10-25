@@ -49,6 +49,5 @@ It focuses on providing:
 - StarUML – for modeling system workflows and activity diagrams  
 - Jira – for project management and progress tracking  
 - GitHub – for collaboration and version control  
-- Planned Integration: AI APIs (e.g., ChatGPT) for real-time conversation and pronunciation feedback  
 
 ---
