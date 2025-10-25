@@ -1,20 +1,19 @@
-🗣️ LinguaTalk – AI-Powered English Conversation Tutor
+#LinguaTalk – AI-Powered English Conversation Tutor
+##“Speak Naturally. Learn Smart.”
 
-“Speak Naturally. Learn Smart.”
-
-📘 Overview
+##Overview
 
 LinguaTalk is an AI-powered English learning platform designed for individual learners who want to improve their speaking fluency, pronunciation, and vocabulary through natural conversations with a virtual AI tutor.
 
 It offers adaptive vocabulary lessons, real-time pronunciation feedback, and progress tracking — making English learning personal, engaging, and effective.
 
-🎯 Purpose
+##Purpose
 
 To create a personalized English learning experience where users can practice speaking confidently, receive instant feedback, and track measurable improvement over time.
 
-⚙️ Core Features
+##Core Features
 
-🔐 User Registration & Profiles – Secure login and personalized dashboards.
+  User Registration & Profiles – Secure login and personalized dashboards.
 
 🧠 Adaptive “Word of the Day” – Adjusts vocabulary based on user proficiency.
 
